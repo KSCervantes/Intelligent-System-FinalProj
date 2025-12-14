@@ -1,0 +1,10 @@
+# Ensure .env files are never committed
+.env linguist-vendored
+.env.* linguist-vendored
+!.env.example linguist-generated=false
+
+# Mark sensitive files
+*.key linguist-vendored
+*.pem linguist-vendored
+secrets.* linguist-vendored
+
