@@ -133,7 +133,7 @@ pip install -r requirements.txt
 
 2. Set it again if needed:
    ```powershell
-   $env:GEMINI_API_KEY = "AIzaSyCRDvPbyaO2EoffRrXn-dP6_HBNvllI4cI"
+   $env:GEMINI_API_KEY = ""
    ```
 
 3. Restart PowerShell and try again
