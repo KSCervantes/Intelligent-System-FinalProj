@@ -20,7 +20,7 @@ This guide will help you set up and run the Mental Health Chatbot on Windows Pow
 
 1. **Set the API Key** (for current session):
    ```powershell
-   $env:GEMINI_API_KEY = "AIzaSyCRDvPbyaO2EoffRrXn-dP6_HBNvllI4cI"
+   $env:GEMINI_API_KEY = ""
    ```
 
 2. **Make API Key Permanent** (optional):
